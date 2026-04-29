@@ -1,24 +1,16 @@
 # 2026年性价比机场实用推荐清单
-<p align="center">
-  <img src="https://img.shields.io/badge/总数-40-4c8bf5" />
-  <img src="https://img.shields.io/badge/支持流量计费-13-2ea44f" />
-  <img src="https://img.shields.io/badge/不支持流量计费-5-d73a49" />
-  <img src="https://img.shields.io/badge/流量计费待明确-22-f0ad4e" />
-  <img src="https://img.shields.io/badge/README-GitHub%20Ready-24292f" />
-</p>
-
 > 本页基于 `天道机场评测` 以及后续补充文本整理。  
 >（仅作展示参考，不代表权威评级）
-
+> **若您认为本项目对您有帮助，敬请点个 ⭐ Star 防走丢。若有哪家机场"跑路"或速度不行，请及时提交 Issue 反馈，我会更新列表。**
 ---
 
 <a id="目录"></a>
 
 ## 目录
 
-- [工具介绍](#机场节点订阅工具介绍)
+- [机场推荐要点](#机场推荐要点)
 - [使用说明](#使用说明)
-- [支持流量计费](#支持流量计费) <----从这里直接看推荐机场信息
+- [支持流量计费](#支持流量计费) <----从这里直接看推荐的机场名称和网站
 - [不支持流量计费](#不支持流量计费)
 - [流量计费方式待确认的机场](#流量计费方式待确认的机场)
 - [注册即送 / 试用流量](#注册即送--试用流量)
@@ -30,9 +22,9 @@
 
 ---
 
-<a id="工具介绍"></a>
+<a id="机场推荐要点"></a>
 
-## 机场节点订阅工具介绍
+## 机场推荐要点
 
 推荐机场或梯子要看个人需求。  
 如果更注重**性价比**，像 **lanpanyun（蓝胖云）**、**极速云**、**NanoCloud**、**TeaCat**、**魔戒** 等机场节点网站，通常属于很多用户会优先关注的选择；它们在 2025 年已有不错表现，很多人也会继续关注其 2026 年的稳定性与线路表现。
@@ -121,8 +113,8 @@
 
 | 名称 | 链接 | 简介 | 星级 |
 |---|---|---|---|
-| lanpanyun（蓝胖云） | [进入注册](https://74u.lanpangyun.de/#/register?code=I0lxRcTm) | 最低 8 元/月，可用节点超多，解锁 Netflix、Disney+ 等流媒体，日本新加坡线路解锁 ChatGPT。工单 24 小时内回复。**没有按量计费套餐**。 | ⭐⭐⭐⭐⭐ |
-| TeaCat | [进入注册](https://teacat1.com/#/register?code=ziuX2r3Z) | 在原文语境中属于试用友好型机场，且明确提到 **没有不限时套餐**。 | ⭐⭐⭐⭐⭐ |
+| lanpanyun（蓝胖云） | [进入注册](https://74u.lanpangyun.de/#/register?code=I0lxRcTm) | 最低10元/月，可用节点超多，性价比很高，解锁 Netflix、Disney+ 等流媒体，日本新加坡线路解锁 ChatGPT。**没有按量计费套餐**。 | ⭐⭐⭐⭐⭐ |
+| TeaCat | [进入注册](https://teacat1.com/#/register?code=ziuX2r3Z) | 确认无不限时套餐,都不限个人设备。最低每月12.8=50g，17.8=100g，你lpy一样不玩套路 | ⭐⭐⭐⭐⭐ |
 | 蟒蛇 | [进入注册](https://www.mangshe.org/#/register?code=Qlu0k8MY) | **没有按流量计费套餐**。最低年付 15 每月 200G，月付最低 5.8 每月 1500G，便宜但有“流量跑得快”的负面描述。 | ⭐⭐⭐ |
 | 鳄鱼机场 | [进入注册](https://www.eyujichang.com/#/register?code=2zmks6EX) | 年付12元（每月1元）100G，支持 Hysteria 协议，解锁流媒体及 ChatGPT，不限设备数，**没有按量计费套餐**。 | ⭐⭐⭐⭐ |
 | EEVPN | [进入注册](http://www.geteevpn.com/#/register?code=oaQCXCoy) | 中国大陆 BGP 网络接入，IEPL 专线传输，不限制本人设备数量，最高 1000Mbps；**不限时套餐没有**。 | ⭐⭐⭐⭐ |
@@ -194,6 +186,12 @@
 
 [↑ 返回目录](#目录)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/总数-40-4c8bf5" />
+  <img src="https://img.shields.io/badge/支持流量计费-13-2ea44f" />
+  <img src="https://img.shields.io/badge/不支持流量计费-5-d73a49" />
+  <img src="https://img.shields.io/badge/流量计费待明确-22-f0ad4e" />
+</p>
 ---
 
 <a id="星级补充说明"></a>
@@ -321,3 +319,4 @@
 - 建议优先试用或购买短期套餐，避免一次性长期投入
 
 [↑ 返回目录](#目录)
+
