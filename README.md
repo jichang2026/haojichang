@@ -10,7 +10,7 @@
 
 - [机场推荐要点](#机场推荐要点)
 - [使用说明](#使用说明)
-- [支持按流量计费](#支持流量计费) <----从这里直接看推荐的机场名称和网站
+- [支持按流量计费](#支持流量计费) <span style="color:red"><----从这里直接看推荐的机场名称和网站</span>
 - [不支持按流量计费](#不支持流量计费)
 - [流量计费方式待确认的机场](#流量计费方式待确认的机场)
 - [注册即送 / 试用流量](#注册即送--试用流量)
@@ -83,12 +83,12 @@
 
 | 名称 | 链接 | 简介 | 星级 |
 |---|---|---|---|
-| Skylu-（天路云） | [进入注册](https://skylumo.com/#/register?code=HXu5z5qE) | 多年老牌机场。**不限时约1TB要100元**；**不限时1千万G只要200，用完为止**。另有 Google AI Pro 年费赠送套餐。 | ⭐⭐⭐⭐⭐ |
+| Skylu-（天路云） | [进入注册](https://skylumo.com/#/register?code=HXu5z5qE) | 多年老牌机场。**不限时约1TB要100元**；**不限时1千万G只要200，用完为止**。50g流量月付6元年付10元-你没看错！每月100g年付是50 | ⭐⭐⭐⭐⭐ |
 | 狮子云 | [进入注册](https://dash.shizi.in/portal/register?code=vQfIfz52) | 最低16元有100G，**不限时128元是1024G**。价格和不限时包都比较直观。 | ⭐⭐⭐⭐ |
 | BigME | [进入注册](https://1s.bigmeok.me/user#/register?code=KzW3JEW7) | **不限时60元400G，109元800G**；月付最低6元45G，120G月付10元。套餐结构清晰。 | ⭐⭐⭐⭐ |
 | 帕克云 | [进入注册](https://aff3.923ka.com/#login?code=b7UlHCHu) | 最低 15 元月付 100G；**一次性100G是36元**。50+ 全球边缘网络，IEPL 专线（游戏/直播），多种流媒体解锁。 | ⭐⭐⭐⭐ |
 | 乌龟加速 | [进入注册](https://wuguijs.com/#/login?code=UOpm40Ge) | 10Gbps 高速定制中转网络，不限设备，流媒体稳定解锁。200G 月付最低 15；**不限时1000G打折后约97元**。 | ⭐⭐⭐⭐ |
-| CrossWall(克洛斯) | [进入注册](https://www.crosswall.org/#/register?code=evUpjwLO) | 396G月付14，年付36每月152g，还有**不限时间30元有200g**。特殊商品24小时内可退款。采用较新的 Anytls / Hysteria2 协议，请将 CLASH、FlClash 和小火箭等软件升级到最新版本。 | ⭐⭐⭐ |
+| CrossWall(克洛斯) | [进入注册](https://www.crosswall.org/#/register?code=evUpjwLO) | 396G月付14，年付36每月152g，还有**不限时间30元有200g**。场主格局可能偏小。采用较新的 Anytls / Hysteria2 协议，请将 CLASH、FlClash 和小火箭等软件升级到最新版本。 | ⭐⭐⭐ |
 | 光速机场 | [进入注册](https://gsgs.nxxbbf.com/#/register?code=5U0lzBX8) | 年付最低12元（每月只要1元）120g，360g年付32；**不限时最低5元有100g，15元有500g**。无限制设备同时使用，高达 1000Mbps 的速率，秒开 4K/8K 视频，Shadowsocks 类型，稳定中转线路，Hy2 下载专用节点。 | ⭐⭐⭐⭐ |
 | 大白 | [进入注册](https://www.dabai.in/auth/register?code=Qjlt) | 注册可获得 2 元初始资金。注册即享 99T 不限时间流量，有时很卡。要快就得付费【节点优先级-按量>不限量>免费>公共订阅\|共享】。不限量低至 7.2/月。**按量付费30元可获得200g**。 | ⭐⭐⭐ |
 | 精灵学院 | [进入注册](https://pub2.riolu.icu/?code=sLCuvIj1) | 最低有 8 元月付的 30G，15 元 120G；**不限时按流量计费最低 70 元 400G**。 | ⭐⭐⭐ |
@@ -113,7 +113,7 @@
 
 | 名称 | 链接 | 简介 | 星级 |
 |---|---|---|---|
-| LPY（蓝胖云） | [进入注册](https://74u.lanpangyun.de/#/register?code=I0lxRcTm) | 最低10元/月，可用节点超多，性价比很高，解锁 Netflix、Disney+ 等流媒体，日本新加坡线路解锁 ChatGPT。**没有按量计费套餐**。 | ⭐⭐⭐⭐⭐ |
+| LPY（蓝胖云） | [进入注册](https://74u.lanpangyun.de/#/register?code=I0lxRcTm) | 最低10元/月有168G，可用节点超多，性价比很高，解锁 Netflix等流媒体，日本新加坡线路解锁 ChatGPT。场主大格局**没有按量计费套餐**。 | ⭐⭐⭐⭐⭐ |
 | TeaCat | [进入注册](https://teacat1.com/#/register?code=ziuX2r3Z) | 确认无不限时套餐,都不限个人设备。最低每月12.8=50g，17.8=100g，和lpy一样不玩套路 | ⭐⭐⭐⭐⭐ |
 | 蟒蛇 | [进入注册](https://www.mangshe.org/#/register?code=Qlu0k8MY) | **没有按流量计费套餐**。最低年付 15 每月 200G，月付最低 5.8 每月 1500G，便宜但有“流量跑得快”的负面描述。 | ⭐⭐⭐ |
 | 鳄鱼机场 | [进入注册](https://www.eyujichang.com/#/register?code=2zmks6EX) | 年付12元（每月1元）100G，支持 Hysteria 协议，解锁流媒体及 ChatGPT，不限设备数，**没有按量计费套餐**。 | ⭐⭐⭐⭐ |
@@ -135,7 +135,7 @@
 | 名称 | 链接 | 简介 | 星级 |
 |---|---|---|---|
 | CuteCoud | [进入注册](https://www.cutecloud.net/#/register?code=ow2vmMxu) | 注册简单，网站设计美观。除 5G 的 2 元月付，其它不限设备。目前注册送 3 元，100G 月付低至 7 元，有共享账户。 | ⭐⭐⭐⭐⭐ |
-| Phantom | [进入注册](https://pin.dianping.men/auth/register?code=V1TksbQ0) | 注册即享 10G 免费试用一天。最低 1 元月付；100G 月付 1 元；10 元月付 300G。支持多流媒体解锁。 | ⭐⭐⭐⭐⭐ |
+| Phantom | [进入注册](https://pin.dianping.men/auth/register?code=V1TksbQ0) | 注册即享 5G 免费试用一天。最低 1 元月付；100G 月付 1 元；10 元月付 300G。支持多流媒体解锁。 | ⭐⭐⭐⭐⭐ |
 | APXLC星链 | [进入注册](https://affman.starlinkcloud.icu/#/register?code=TFwGpxzZ) | 最低15月付128G，不限使用设备。必须下载其客户端，节点丰富，自主研发协议。 | ⭐⭐⭐⭐ |
 | 蜗牛云 | [进入注册](https://snaillink.net/register?code=utGwSkNy) | 注册后 1 小时内 8 折码有效，赠送 5G 试用限时 2 小时，最低 10 元 100G，最多支持 3 设备。 | ⭐⭐⭐ |
 | NanoCloud | [进入注册](https://edu.uodoo.bid/auth/register?code=FLoqMIhk) | 可能要用梯子才能访问。最低 300G 月付 10 元，可同时 5 台设备在线，更适合熟手。 | ⭐⭐⭐⭐ |
