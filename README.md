@@ -74,7 +74,7 @@
 
 ---
 
-<a id="支持流量计费"></a>
+<a id="支持按流量计费"></a>
 
 ## 支持按流量计费
 
@@ -86,15 +86,15 @@
 | Skylu-（天路云） | [进入注册](https://skylumo.com/#/register?code=HXu5z5qE) | 多年老牌机场。**不限时约1TB要100元**；**不限时1千万G只要200，用完为止**。50g流量月付6元年付10元-你没看错！每月100g年付是50 | ⭐⭐⭐⭐⭐ |
 | 狮子云 | [进入注册](https://dash.shizi.in/portal/register?code=vQfIfz52) | 最低16元有100G，**不限时128元是1024G**。价格和不限时包都比较直观。 | ⭐⭐⭐⭐ |
 | BigME | [进入注册](https://1s.bigmeok.me/user#/register?code=KzW3JEW7) | **不限时60元400G，109元800G**；月付最低6元45G，120G月付10元。套餐结构清晰。 | ⭐⭐⭐⭐ |
+| [泡泡DOG](https://1226.ppg02-mqelltoq.top/#/register?code=xd9L2YPa) | 至少有三年历史，按流量付款套餐极少，但是有一888g流量116元的（这个不限设备不确定是否1年内有效），其它套餐一般是限制同时10台设备。 | ⭐⭐⭐⭐ |
 | 帕克云 | [进入注册](https://aff3.923ka.com/#login?code=b7UlHCHu) | 最低 15 元月付 100G；**一次性100G是36元**。50+ 全球边缘网络，IEPL 专线（游戏/直播），多种流媒体解锁。 | ⭐⭐⭐⭐ |
 | 乌龟加速 | [进入注册](https://wuguijs.com/#/login?code=UOpm40Ge) | 10Gbps 高速定制中转网络，不限设备，流媒体稳定解锁。200G 月付最低 15；**不限时1000G打折后约97元**。 | ⭐⭐⭐⭐ |
-| CrossWall(克洛斯) | [进入注册](https://www.crosswall.org/#/register?code=evUpjwLO) | 396G月付14，年付36每月152g，还有**不限时间30元有200g**。场主格局可能偏小。采用较新的 Anytls / Hysteria2 协议，请将 CLASH、FlClash 和小火箭等软件升级到最新版本。 | ⭐⭐⭐ |
 | 光速机场 | [进入注册](https://gsgs.nxxbbf.com/#/register?code=5U0lzBX8) | 年付最低12元（每月只要1元）120g，360g年付32；**不限时最低5元有100g，15元有500g**。无限制设备同时使用，高达 1000Mbps 的速率，秒开 4K/8K 视频，Shadowsocks 类型，稳定中转线路，Hy2 下载专用节点。 | ⭐⭐⭐⭐ |
 | 大白 | [进入注册](https://www.dabai.in/auth/register?code=Qjlt) | 注册可获得 2 元初始资金。注册即享 99T 不限时间流量，有时很卡。要快就得付费【节点优先级-按量>不限量>免费>公共订阅\|共享】。不限量低至 7.2/月。**按量付费30元可获得200g**。 | ⭐⭐⭐ |
 | 精灵学院 | [进入注册](https://pub2.riolu.icu/?code=sLCuvIj1) | 最低有 8 元月付的 30G，15 元 120G；**不限时按流量计费最低 70 元 400G**。 | ⭐⭐⭐ |
 | 魔戒 | [进入注册](https://mojie.app/register?aff=Cbx6TgWO) | **全网极少见的只有按流量付费，不限时**。1元2G，14.9元130G，42元420G，138元1660G，688元10T。节点虽然少，但香港 IP 速度较快。 | ⭐⭐⭐⭐ |
 | Maoyun | [进入注册](https://www.maoyun.org/index.php#/register?code=IpBBIGVK) | 月流量 20G 月付 5 元，100G 是 8 元，300G 是 20；**不限时100G是35，300G是50**。 | ⭐⭐⭐ |
-| 猫耳云 | [进入注册](https://88.mao2-gw.top/#/register?code=i6k8fazW) | 支持 SS / Hysteria2 / Trojan / VLESS。**不限时1000G只需55**，**不限时36元有168G**。不限设备数。 | ⭐⭐⭐⭐ |
+| 猫耳云 | [进入注册](https://88.mao2-gw.top/#/register?code=i6k8fazW) | 支持 SS / Hysteria2 / Trojan / VLESS。**不限时1000G只需55**，**不限时36元有168G**。不限设备数。 | ⭐⭐⭐ |
 | 穿山甲 | [进入注册](https://aff01.csj2025.com/#/register?code=7aOZ2LLY) | 有美国、英国和香港住宅 IP。100G 月付 10 元，年付 50 每月 30G，**按量计费30G是8元**。 | ⭐⭐⭐ |
 
 
@@ -114,9 +114,9 @@
 | 名称 | 链接 | 简介 | 星级 |
 |---|---|---|---|
 | LPY（蓝胖云） | [进入注册](https://74u.lanpangyun.de/#/register?code=I0lxRcTm) | 最低10元/月有168G，可用节点超多，性价比很高，解锁 Netflix等流媒体，日本新加坡线路解锁 ChatGPT。场主大格局**没有按量计费套餐**。 | ⭐⭐⭐⭐⭐ |
-| TeaCat | [进入注册](https://teacat1.com/#/register?code=ziuX2r3Z) | 确认无不限时套餐,都不限个人设备。最低每月12.8=50g，17.8=100g，和lpy一样不玩套路 | ⭐⭐⭐⭐⭐ |
+| TeaCat | [进入注册](https://teacat1.com/#/register?code=ziuX2r3Z) | 确认无不限时套餐,都不限个人设备。最低每月12.8=50g，17.8=100g，和lpy一样不玩套路 | ⭐⭐⭐⭐ |
 | 蟒蛇 | [进入注册](https://www.mangshe.org/#/register?code=Qlu0k8MY) | **没有按流量计费套餐**。最低年付 15 每月 200G，月付最低 5.8 每月 1500G，便宜但有“流量跑得快”的负面描述。 | ⭐⭐⭐ |
-| 鳄鱼机场 | [进入注册](https://www.eyujichang.com/#/register?code=2zmks6EX) | 年付12元（每月1元）100G，支持 Hysteria 协议，解锁流媒体及 ChatGPT，不限设备数，**没有按量计费套餐**。 | ⭐⭐⭐⭐ |
+| 鳄鱼机场 | [进入注册](https://www.eyujichang.com/#/register?code=2zmks6EX) | 年付12元（每月1元）100G，支持 Hysteria 协议，解锁流媒体及 ChatGPT，不限设备数，**没有按量计费套餐**。 | ⭐⭐⭐ |
 | EEVPN | [进入注册](http://www.geteevpn.com/#/register?code=oaQCXCoy) | 中国大陆 BGP 网络接入，IEPL 专线传输，不限制本人设备数量，最高 1000Mbps；**不限时套餐没有**。 | ⭐⭐⭐⭐ |
 
 </details>
@@ -149,7 +149,7 @@
 | 红杏云 | [进入注册](https://hongxingyun.pro/web/#/login?code=B6PcC2tf) | 多年经营，海外专业运营团队，IEPL 专线传输，赠送 EMBY 影视库，家庭不限设备。 | ⭐⭐⭐⭐⭐ |
 | 灯塔云 | [进入注册](https://dengta.cloud/register?code=QY6ai3gj) | 全面升级 VLESS 协议，全是三线 IEPL 专线。价格偏高但更可靠，季付 70 元起，且不限制本人设备数。 | ⭐⭐⭐⭐ |
 | 阿拉丁 | [进入注册](https://www.avatargpt.xyz/register?aff=JCnygYk8KL) | 8 元 / 月 80G，15 元 / 月 150G，普通套餐端口速度 1Gb/s。 | ⭐⭐⭐ |
-| 星链机场 | [进入注册](https://www.xn--mes995ajya725k.com/#/register?code=flSocsJx) | 主打便宜，最低 9.9 年付，月 300G 支持三设备；10 年不限量 64.9 元可同时 5 设备。 | ⭐⭐⭐⭐ |
+| 星链机场 | [进入注册](https://www.xn--mes995ajya725k.com/#/register?code=flSocsJx) | 主打便宜，最低 9.9 年付，月 300G 支持三设备；10 年不限量 64.9 元可同时 5 设备。 | ⭐⭐⭐ |
 | topman拓扑门 | [进入注册](https://joyo95.cc/#/register?code=RbwqOkvD) | 100G 月付 5.88，500G 月付 15，注册送 1G / 1 天体验，测试速度可以。 | ⭐⭐⭐ |
 | 一只猫 | [进入注册](https://f3e826c89fc6f46ef97dc15143bde098.onecataff.vip/auth/register?code=qzEB) | 节点 IP 覆盖美日韩台港新，不会订阅可用 OneCat 客户端。最低月付 15 元 100G。 | ⭐⭐⭐⭐ |
 | 极速云 | [进入注册](https://905.jsy902.xyz/#/register?code=COJehQsA) | IEPL + 中转高速节点，GPT/Nf/Tk 等流媒体全解锁。月流量 1200G，节点倍率 8 倍，最低 150G/月，¥16。 | ⭐⭐⭐⭐ |
