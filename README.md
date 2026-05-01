@@ -10,7 +10,7 @@
 
 - [机场推荐要点](#机场推荐要点)
 - [使用说明](#使用说明)
-- [支持按流量计费](#支持流量计费) <span style="color:red"><----从这里直接看推荐的机场名称和网站</span>
+- [支持按流量计费](#支持按流量计费) <span style="color:red"><----从这里直接看推荐的机场名称和网站</span>
 - [不支持按流量计费](#不支持流量计费)
 - [流量计费方式待确认的机场](#流量计费方式待确认的机场)
 - [注册即送 / 试用流量](#注册即送--试用流量)
@@ -150,10 +150,10 @@
 | 灯塔云 | [进入注册](https://dengta.cloud/register?code=QY6ai3gj) | 全面升级 VLESS 协议，全是三线 IEPL 专线。价格偏高但更可靠，季付 70 元起，且不限制本人设备数。 | ⭐⭐⭐⭐ |
 | 阿拉丁 | [进入注册](https://www.avatargpt.xyz/register?aff=JCnygYk8KL) | 8 元 / 月 80G，15 元 / 月 150G，普通套餐端口速度 1Gb/s。 | ⭐⭐⭐ |
 | 星链机场 | [进入注册](https://www.xn--mes995ajya725k.com/#/register?code=flSocsJx) | 主打便宜，最低 9.9 年付，月 300G 支持三设备；10 年不限量 64.9 元可同时 5 设备。 | ⭐⭐⭐ |
-| topman拓扑门 | [进入注册](https://joyo95.cc/#/register?code=RbwqOkvD) | 100G 月付 5.88，500G 月付 15，注册送 1G / 1 天体验，测试速度可以。 | ⭐⭐⭐ |
+| topman拓扑门 | [进入注册](https://joyo95.cc/#/register?code=RbwqOkvD) | 100G 月付 5.88，500G 月付 15，不限时流量39有99g.注册送1G限1天体验，测试速度可以。 | ⭐⭐⭐⭐ |
 | 一只猫 | [进入注册](https://f3e826c89fc6f46ef97dc15143bde098.onecataff.vip/auth/register?code=qzEB) | 节点 IP 覆盖美日韩台港新，不会订阅可用 OneCat 客户端。最低月付 15 元 100G。 | ⭐⭐⭐⭐ |
 | 极速云 | [进入注册](https://905.jsy902.xyz/#/register?code=COJehQsA) | IEPL + 中转高速节点，GPT/Nf/Tk 等流媒体全解锁。月流量 1200G，节点倍率 8 倍，最低 150G/月，¥16。 | ⭐⭐⭐⭐ |
-| 宝贝云 | [进入注册](https://web1.bby011.com/#/register?code=hS7GuU36) | 注册即送 10G 流量，24 小时有效。信息较少。 | ⭐⭐⭐ |
+| 宝贝云 | [进入注册](https://web1.bby011.com/#/register?code=hS7GuU36) | 注册即送 10G 流量，24 小时有效。月付套餐禁分享，最低月付15有1000g限3个设备。不限时流量55元有600g可团队共享。 | ⭐⭐⭐ |
 | 迅连 | [进入注册](https://soontg.kbr1g.com//register?code=Bu9MNFLL) | 送 1 天 10G，信息较少。 | ⭐⭐⭐ |
 | EECHO | [进入注册](https://www.eecho.cc/#/register?code=amxo2EQu) | 最低 10 元/月，96 元/年，试用 5G/1 天，自有客户端易出问题，在线客服响应还行。 | ⭐⭐⭐ |
 
