@@ -141,10 +141,10 @@
 | 名称 | 链接 | 简介 | 星级 |
 |---|---|---|---|
 | <a id="wjkc"></a>网际快车 | [进入注册](https://a1.快车.com?c=UEXRNB) | 2026机场新秀，按量和不限时流量包都很有辨识度。**不限时约20G 要7元**，**不限时 100G 只要 24，用完为止**；日享套餐-1800G 月付 28 元。永久套餐适合低频、慢慢用的用户，而购买月付套餐可享有超大流量额度。送5G试用 | ⭐⭐⭐⭐ |
-| <a id="shiziyun"></a>狮子云 | [进入注册](https://dash.shizi.in/portal/register?code=vQfIfz52) | 套餐结构比较直观，最低 16 元有 100G，**不限时 128 元是 1024G**。适合不想研究复杂套餐、希望一眼看懂价格体系的用户。 | ⭐⭐⭐ |
+| <a id="shiziyun"></a>狮子云 | [进入注册](https://dash.shizi.in/register?code=vQfIfz52) | 套餐结构比较直观，最低 16 元有 100G，**不限时 128 元是 1024G**。适合不想研究复杂套餐、希望一眼看懂价格体系的用户。 | ⭐⭐⭐ |
 | <a id="bigme"></a>BigME | [进入注册](https://1s.bigmeok.me/user#/register?code=KzW3JEW7) | **不限时 60 元 400G，109 元 800G**；月付最低 6 元 45G，120G 月付 10 元。按量包和月付都比较均衡，适合日常使用和中低预算用户。 | ⭐⭐⭐⭐ |
 | <a id="pakecloud"></a>帕克云 | [进入注册](https://aff3.923ka.com/#login?code=b7UlHCHu) | 最低 15 元月付 100G；**一次性 100G 是 36 元**。拥有 50+ 全球边缘网络、IEPL 专线，偏向游戏、直播和多流媒体解锁场景，适合更看重线路和节点覆盖的用户。 | ⭐⭐⭐ |
-| <a id="wuguijiasu"></a>乌龟加速 | [进入注册](https://wuguijs.com/#/login?code=UOpm40Ge) | 10Gbps 高速定制中转网络，不限设备，流媒体稳定解锁。200G 月付最低 15 元；**不限时 1000G 打折后约 97 元**。适合多设备和中高流量用户。 | ⭐⭐⭐ |
+| <a id="wuguijiasu"></a>乌龟加速 | [进入注册](https://wuguijiasu.com/#/login?code=UOpm40Ge) | 10Gbps 高速定制中转网络，不限设备，流媒体稳定解锁。200G 月付最低 15 元；**不限时 1000G 打折后约 97 元**。适合多设备和中高流量用户。 | ⭐⭐⭐ |
 | <a id="Runway"></a>Runway云 | [进入注册](https://ydzzyujrrv.runwayhz.com/#/register?code=PHwFT8EU) | 注册送6g试用1天。月付和不限时套餐都有，都不限个人设备。最低每月9.9元有 100G，19.9元有200G,不限时150G价格是45，适合想省心、又在意设备限制的用户。 | ⭐⭐⭐ |
 | <a id="dabai"></a>大白 | [进入注册](https://www.dabai.in/auth/register?code=Qjlt) | 注册可获得 2 元初始资金，注册即享 99T 不限时间流量；不过免费和低优先级线路有时会比较卡。付费套餐优先级更高，**按量付费 30 元可获得 200G**，不限量低至 7.2/月。现在节点不行了，超时多且速度慢。 | ⭐⭐ |
 | <a id="jinglingxueyuan"></a>精灵学院 | [进入注册](https://pub2.riolu.icu/?code=sLCuvIj1) | 最低 8 元月付 30G，15 元 120G；**不限时按流量计费最低 70 元 400G**。适合想在低价月付和按量包之间灵活选择的用户。 | ⭐⭐⭐⭐ |
@@ -170,7 +170,7 @@
 | 名称 | 链接 | 简介 | 星级 |
 |---|---|---|---|
 | <a id="gnt"></a>光年梯 | [进入注册](https://gnt001.gntvipaff.cc/#/?code=0yL7tKFi) | 用券每月110G约15元，全程IPLC专线，最高可提供2.5Gbps速率，不限设备不限速。优惠码：GNT80 全场打8折。现在好像有卡的时候。 | ⭐⭐⭐⭐ |
-| <a id="lpy"></a>LPY（蓝胖云） | [进入注册](https://74u.lanpangyun.de/#/register?code=I0lxRcTm) | 最低 10 元/月有 168G，可用节点很多，整体性价比较高，支持 Netflix 等流媒体，日本、新加坡线路支持 ChatGPT。虽然**没有按量计费套餐**，但综合体验比较均衡，适合大多数日常用户。 | ⭐⭐⭐⭐ |
+| <a id="lpy"></a>LPY（蓝胖云） | [进入注册](https://b.lanpangyun.shop/#/register?code=I0lxRcTm) | 最低 10 元/月有 168G，可用节点很多，整体性价比较高，支持 Netflix 等流媒体，日本、新加坡线路支持 ChatGPT。虽然**没有按量计费套餐**，但综合体验比较均衡，适合大多数日常用户。 | ⭐⭐⭐⭐ |
 | <a id="keleyun"></a>可乐云 | [进入注册](https://cokecloud.cyou/#/register?code=8x9ggTWV) | 注册即送 1G、限 1 小时。最低 9.9 元月付 300G，限制 5 个设备；专线 200G、不限设备月付 22 元。普通套餐和专线套餐分层比较清晰。 | ⭐⭐⭐⭐ |
 | <a id="mangshe"></a>蟒蛇 | [进入注册](https://www.mangshe.org/#/register?code=Qlu0k8MY) | **没有按流量计费套餐**。最低年付 15 元每月 200G，月付最低 5.8 元每月 1500G，价格非常便宜，但也有“流量跑得快”的负面描述，适合极低预算且预期较低的用户。 | ⭐⭐⭐ |
 | <a id="eyujichang"></a>鳄鱼机场 | [疑似跑路](https://github.com/jichang007/paolujichang/issues/2) | 年付 12 元（每月约 1 元）有 100G，支持 Hysteria 协议，支持流媒体及 ChatGPT，不限设备数，**没有按量计费套餐**。适合低价入门型用户。 | ⭐ |
@@ -195,7 +195,7 @@
 | <a id="cutecoud"></a>CuteCoud | [进入注册](https://www.cutecloud.net/#/register?code=ow2vmMxu) | 注册简单，网站设计美观。除 5G 的 2 元月付外，其它套餐不限设备。目前注册送 3 元，100G 月付低至 7 元，还有共享账户。适合低价尝试和多设备用户。 | ⭐⭐⭐⭐⭐ |
 | <a id="fs"></a>飞梭 | [进入注册](https://6b8530728f3d9a87.fs100.cc/#/register?code=22foWrCx) |套餐最低12元月付，流量50g支持二设备；20元月付/100g可同时3设备在线。自有客户端 + 兼容所有第三方客户端。 | ⭐⭐⭐⭐⭐ |
 | <a id="phantom"></a>Phantom | [进入注册](https://pin.dianping.men/auth/register?code=V1TksbQ0) | 注册即享 5G 免费试用一天。最低 1 元月付；100G 月付 1 元；10 元月付 300G，支持多流媒体解锁。价格门槛极低，对新手和尝鲜用户比较友好。 | ⭐⭐⭐⭐⭐ |
-| <a id="apxlc"></a>APXLC星链 | [进入注册](https://w3.apxlc.com/#/register?code=TFwGpxzZ) | 最低 15 元月付 128G，不限使用设备。需要下载其客户端，节点丰富，采用自主研发协议，更适合愿意跟随官方生态使用的用户。 | ⭐⭐⭐⭐⭐ |
+| <a id="apxlc"></a>xl云原APXLC星链 | [进入注册]( https://wc.xlc2090.com/#/register?code=TFwGpxzZ) | 最低 15 元月付 128G，不限使用设备。需要下载其客户端，节点丰富，采用自主研发协议，更适合愿意跟随官方生态使用的用户。 | ⭐⭐⭐⭐⭐ |
 | <a id="woniuyun"></a>蜗牛云 | [进入注册](https://snaillink.net/register?code=utGwSkNy) | 注册后 1 小时内 8 折码有效，赠送 5G 试用，限时 2 小时；最低 10 元 100G，最多支持 3 台设备。适合先试用再决定。 | ⭐⭐⭐ |
 | <a id="nanocloud"></a>NanoCloud | [进入注册](https://edu.uodoo.bid/auth/register?code=FLoqMIhk) | 可能需要先用梯子才能访问。最低 300G 月付 10 元，可同时 5 台设备在线，整体更偏向熟手用户。 | ⭐⭐⭐⭐ |
 | <a id="sanfen"></a>三分机场 | [进入注册](https://sanfen.gonghailin.xin/register?code=G6l1I9vf) | 14.9 元 120G，300G月付 25.5 元。限制 5 个客户端同时在线，有新加坡、日本、美国节点，适合常规轻中度使用场景。 | ⭐⭐⭐ |
@@ -208,7 +208,7 @@
 | <a id="dengtayun"></a>灯塔云 | [进入注册](https://dengta.cloud/register?code=QY6ai3gj) | 全面升级 VLESS 协议，全是三线 IEPL 专线。价格偏高但定位更稳，季付 70 元起，且不限制本人设备数。适合更重视线路和长期稳定性的用户。 | ⭐⭐⭐⭐ |
 | <a id="wylj"></a> [无忧链接](https://sites.google.com/view/zhuanxianjichang/xzzx/wylj) |点名称进入 |IPLC专线机场，线路稳定性和访问速度是其主要卖点，并提供 24小时在线客服。 套餐价格也比较亲民，40G/月年付79元，以及100G/月付19元。 | ⭐⭐⭐⭐ |
 | <a id="topman"></a>topman拓扑门 | [进入注册](https://joyo95.cc/#/register?code=RbwqOkvD) | 100G 月付 5.88 元，500G 月付 15 元；不限时流量 39 元有 99G。注册送 1G、限 1 天体验，测试速度表现还可以。适合低价月付和小额按量兼顾的用户。 | ⭐⭐⭐⭐ |
-| <a id="yizhimao"></a>一只猫 | [进入注册](https://f3e826c89fc6f46ef97dc15143bde098.onecataff.vip/auth/register?code=qzEB) | 节点 IP 覆盖美、日、韩、台、港、新，不会订阅的话可直接使用 OneCat 客户端。最低月付 15 元 100G，对新手比较友好。 | ⭐⭐⭐⭐⭐|
+| <a id="yizhimao"></a>一只猫 | [进入注册](https://cf1ca10a5ee297513e9b165d15ba3e99.onecataff.vip/auth/register?code=W9Yg) | 节点 IP 覆盖美、日、韩、台、港、新，不会订阅的话可直接使用 OneCat 客户端。最低月付 15 元 100G，对新手比较友好。 | ⭐⭐⭐⭐⭐|
 | <a id="jisuyun"></a>极速云 | [进入注册](https://905.jsy902.xyz/#/register?code=COJehQsA) | IEPL + 中转高速节点，GPT / Netflix / TikTok 等流媒体全解锁。月流量 1200G，节点倍率 8 倍，最低 150G/月，¥16。更适合对速度和解锁能力要求更高的用户。 | ⭐⭐⭐⭐ |
 | <a id="baobeiyun"></a>宝贝云 | [进入注册](https://web1.bby011.com/#/register?code=hS7GuU36) | 注册即送 10G 流量，24 小时有效。月付套餐禁分享，最低月付 15 元有 1000G、限 3 个设备；不限时流量 55 元有 600G，可团队共享。适合大流量或小团队使用。 | ⭐⭐⭐⭐ |
 | <a id="xunlian"></a>迅连 | [进入注册](https://soontg.kbr1g.com/register?code=Bu9MNFLL) | 送 1 天 10G 试用，公开信息相对较少。更适合先试后看，不建议一上来就长期投入。 | ⭐⭐⭐⭐ |
